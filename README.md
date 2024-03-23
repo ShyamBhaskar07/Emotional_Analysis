@@ -14,3 +14,6 @@ Anger,happy,sad,fear,surprise,love
 
 We have oversampled dataset towards sad emotion by using sad_dataset.
 We have built model in two ways, using ML models(ex. Naive Bayes) and without using ML Models (pure NLP Techniques)
+
+
+Install the required packaged and run 2 files withML.py and withoutML.py to detect the emotion for a given query
